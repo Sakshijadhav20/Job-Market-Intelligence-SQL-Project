@@ -1,0 +1,501 @@
+Job_ID,Company_ID,Location_ID,Job_Title,Experience_Level,Employment_Type,Work_Mode,Salary_Min_LPA,Salary_Max_LPA,Posted_Date,Company_Name,Industry,City,Country
+1,1004,2011,Backend Developer,Entry Level,Full-time,Hybrid,4,9.8,05-08-2026,FinEdge Technologies,FinTech,Navi Mumbai,India
+2,1001,2013,AI Engineer,Entry Level,Full-time,Hybrid,5.8,14,24-06-2026,TechNova Solutions,Information Technology,Jaipur,India
+3,1004,2015,Machine Learning Engineer,Entry Level,Full-time,Hybrid,5.5,13.4,05-07-2026,FinEdge Technologies,FinTech,Remote,India
+4,1012,2004,Data Engineer,Mid Level,Full-time,Hybrid,6.7,14.6,06-02-2026,CyberCore Technologies,Cybersecurity,Hyderabad,India
+5,1013,2005,NLP Engineer,Entry Level,Full-time,Remote,6.1,13.9,11-06-2026,AppVantage,Software Development,Chennai,India
+6,1013,2006,Software Engineer,Entry Level,Full-time,Remote,4.3,10.7,18-09-2026,AppVantage,Software Development,Delhi,India
+7,1018,2014,Data Engineer,Mid Level,Contract,Hybrid,6.4,14.7,28-02-2026,RetailTech Systems,Retail Technology,Indore,India
+8,1010,2014,Data Scientist,Mid Level,Full-time,Hybrid,6.1,15.6,20-03-2026,CodeCraft Solutions,Software Development,Indore,India
+9,1003,2002,Cloud Engineer,Entry Level,Full-time,Remote,4.7,12.3,30-09-2026,CloudPeak Systems,Cloud Computing,Pune,India
+10,1007,2012,Frontend Developer,Senior Level,Full-time,Remote,5.8,14.2,11-07-2026,Quantix Analytics,Data & AI,Thane,India
+11,1002,2004,Frontend Developer,Entry Level,Full-time,On-site,3.2,8,19-06-2026,DataSphere Analytics,Analytics & Consulting,Hyderabad,India
+12,1016,2013,AI Engineer,Senior Level,Full-time,On-site,9.6,23,09-08-2026,MarketPulse,E-commerce & Technology,Jaipur,India
+13,1005,2007,Cloud Engineer,Entry Level,Full-time,Hybrid,4.8,11.9,08-02-2026,InnoSoft Labs,Software Development,Gurugram,India
+14,1001,2007,Software Engineer,Senior Level,Full-time,Hybrid,7.2,16.1,21-08-2026,TechNova Solutions,Information Technology,Gurugram,India
+15,1006,2001,Data Analyst,Mid Level,Contract,On-site,4.3,9.7,06-04-2026,NextGen Digital,Information Technology,Mumbai,India
+16,1009,2004,Frontend Developer,Entry Level,Full-time,On-site,3.4,8.6,16-05-2026,Vertex Systems,IT Services,Hyderabad,India
+17,1009,2003,Cybersecurity Analyst,Senior Level,Contract,Remote,6.5,14.8,06-05-2026,Vertex Systems,IT Services,Bengaluru,India
+18,1009,2002,Software Engineer,Senior Level,Full-time,Hybrid,6.5,17,21-03-2026,Vertex Systems,IT Services,Pune,India
+19,1002,2001,BI Developer,Entry Level,Full-time,On-site,3.9,9,15-05-2026,DataSphere Analytics,Analytics & Consulting,Mumbai,India
+20,1012,2010,QA Analyst,Mid Level,Full-time,Hybrid,3.5,8.1,22-01-2026,CyberCore Technologies,Cybersecurity,Ahmedabad,India
+21,1005,2015,Machine Learning Engineer,Mid Level,Contract,Remote,7.7,17.8,01-04-2026,InnoSoft Labs,Software Development,Remote,India
+22,1015,2006,Data Analyst,Senior Level,Full-time,Hybrid,5.8,11.5,27-04-2026,CloudMatrix,Cloud Computing,Delhi,India
+23,1001,2002,Software Engineer,Mid Level,Full-time,On-site,5.6,12.7,16-05-2026,TechNova Solutions,Information Technology,Pune,India
+24,1014,2001,Data Analyst,Senior Level,Full-time,Remote,5.3,11.2,11-04-2026,AIWorks India,Artificial Intelligence,Mumbai,India
+25,1010,2009,Machine Learning Engineer,Entry Level,Full-time,Hybrid,5.8,13.3,14-07-2026,CodeCraft Solutions,Software Development,Kolkata,India
+26,1007,2009,Frontend Developer,Mid Level,Full-time,Remote,4.3,10.8,28-03-2026,Quantix Analytics,Data & AI,Kolkata,India
+27,1003,2008,Business Analyst,Entry Level,Full-time,Hybrid,3.6,7.7,10-04-2026,CloudPeak Systems,Cloud Computing,Noida,India
+28,1018,2004,Data Scientist,Mid Level,Full-time,On-site,6.6,15,10-03-2026,RetailTech Systems,Retail Technology,Hyderabad,India
+29,1009,2013,NLP Engineer,Mid Level,Full-time,Hybrid,7.3,16.8,03-05-2026,Vertex Systems,IT Services,Jaipur,India
+30,1007,2002,Software Engineer,Entry Level,Full-time,On-site,4,10.4,27-08-2026,Quantix Analytics,Data & AI,Pune,India
+31,1014,2009,QA Analyst,Entry Level,Full-time,Hybrid,2.9,7.4,23-04-2026,AIWorks India,Artificial Intelligence,Kolkata,India
+32,1005,2010,Backend Developer,Entry Level,Full-time,Remote,3.9,10.1,14-01-2026,InnoSoft Labs,Software Development,Ahmedabad,India
+33,1014,2005,Business Analyst,Entry Level,Full-time,Hybrid,4,7.6,04-10-2026,AIWorks India,Artificial Intelligence,Chennai,India
+34,1004,2010,Business Analyst,Entry Level,Contract,Hybrid,3.5,7.2,12-05-2026,FinEdge Technologies,FinTech,Ahmedabad,India
+35,1007,2002,BI Developer,Mid Level,Full-time,Remote,5.2,10.7,05-05-2026,Quantix Analytics,Data & AI,Pune,India
+36,1011,2001,Machine Learning Engineer,Entry Level,Full-time,Remote,5.7,13.5,24-02-2026,InsightWorks,Analytics & Consulting,Mumbai,India
+37,1019,2005,BI Developer,Mid Level,Full-time,On-site,4.8,11.3,14-02-2026,SecureNet Labs,Cybersecurity,Chennai,India
+38,1009,2015,Machine Learning Engineer,Mid Level,Full-time,Remote,7.3,16.8,06-01-2026,Vertex Systems,IT Services,Remote,India
+39,1013,2012,AI Engineer,Entry Level,Full-time,Hybrid,5.5,14,08-07-2026,AppVantage,Software Development,Thane,India
+40,1018,2013,Data Scientist,Entry Level,Full-time,On-site,4.8,11.3,05-09-2026,RetailTech Systems,Retail Technology,Jaipur,India
+41,1010,2012,AI Engineer,Entry Level,Contract,Hybrid,5.5,13.7,09-09-2026,CodeCraft Solutions,Software Development,Thane,India
+42,1016,2002,Data Scientist,Senior Level,Full-time,Hybrid,7.9,18.7,19-03-2026,MarketPulse,E-commerce & Technology,Pune,India
+43,1010,2014,Frontend Developer,Mid Level,Full-time,Hybrid,4.2,11.4,31-01-2026,CodeCraft Solutions,Software Development,Indore,India
+44,1016,2005,Software Engineer,Entry Level,Full-time,On-site,4.1,10.4,25-05-2026,MarketPulse,E-commerce & Technology,Chennai,India
+45,1006,2013,Backend Developer,Senior Level,Full-time,Hybrid,7.1,16,28-05-2026,NextGen Digital,Information Technology,Jaipur,India
+46,1001,2002,Frontend Developer,Senior Level,Full-time,Hybrid,5.7,14,11-01-2026,TechNova Solutions,Information Technology,Pune,India
+47,1003,2008,Business Analyst,Mid Level,Full-time,On-site,4.9,9.8,23-02-2026,CloudPeak Systems,Cloud Computing,Noida,India
+48,1011,2002,Cloud Engineer,Mid Level,Contract,Hybrid,6.4,14.8,21-09-2026,InsightWorks,Analytics & Consulting,Pune,India
+49,1010,2008,Backend Developer,Mid Level,Full-time,Hybrid,5.1,13,15-01-2026,CodeCraft Solutions,Software Development,Noida,India
+50,1005,2008,DevOps Engineer,Entry Level,Contract,On-site,5.4,12,20-05-2026,InnoSoft Labs,Software Development,Noida,India
+51,1009,2013,BI Developer,Mid Level,Full-time,Hybrid,5.1,11.3,17-09-2026,Vertex Systems,IT Services,Jaipur,India
+52,1013,2008,Software Engineer,Mid Level,Contract,Remote,5.2,13.3,03-05-2026,AppVantage,Software Development,Noida,India
+53,1015,2002,Data Analyst,Mid Level,Full-time,Hybrid,4.4,9.8,15-03-2026,CloudMatrix,Cloud Computing,Pune,India
+54,1016,2014,DevOps Engineer,Senior Level,Full-time,Hybrid,8.1,19,01-05-2026,MarketPulse,E-commerce & Technology,Indore,India
+55,1010,2006,AI Engineer,Senior Level,Full-time,On-site,9.2,23.7,29-09-2026,CodeCraft Solutions,Software Development,Delhi,India
+56,1001,2015,Frontend Developer,Entry Level,Full-time,Remote,3.5,8.5,07-10-2026,TechNova Solutions,Information Technology,Remote,India
+57,1016,2002,Backend Developer,Mid Level,Full-time,Hybrid,5.2,13.6,01-06-2026,MarketPulse,E-commerce & Technology,Pune,India
+58,1008,2011,BI Developer,Mid Level,Full-time,On-site,4.6,11.2,12-03-2026,BlueOrbit Technologies,Software Development,Navi Mumbai,India
+59,1005,2013,Data Analyst,Entry Level,Full-time,Remote,3.6,6.9,29-09-2026,InnoSoft Labs,Software Development,Jaipur,India
+60,1013,2014,Business Analyst,Senior Level,Full-time,Hybrid,6.5,12.8,22-07-2026,AppVantage,Software Development,Indore,India
+61,1008,2008,Data Scientist,Entry Level,Full-time,Remote,5.1,11.7,17-06-2026,BlueOrbit Technologies,Software Development,Noida,India
+62,1005,2007,Machine Learning Engineer,Mid Level,Full-time,Hybrid,7.1,17.7,04-10-2026,InnoSoft Labs,Software Development,Gurugram,India
+63,1012,2009,Business Analyst,Entry Level,Full-time,Hybrid,3.6,7.6,01-02-2026,CyberCore Technologies,Cybersecurity,Kolkata,India
+64,1005,2013,Frontend Developer,Entry Level,Full-time,On-site,3.6,8.2,17-04-2026,InnoSoft Labs,Software Development,Jaipur,India
+65,1001,2003,Business Analyst,Entry Level,Full-time,Hybrid,3.6,7.3,02-05-2026,TechNova Solutions,Information Technology,Bengaluru,India
+66,1017,2004,Software Engineer,Mid Level,Contract,On-site,5.4,12.4,24-09-2026,HealthTech Innovations,Healthcare Technology,Hyderabad,India
+67,1003,2003,BI Developer,Entry Level,Full-time,Hybrid,3.5,8.7,08-10-2026,CloudPeak Systems,Cloud Computing,Bengaluru,India
+68,1007,2007,Data Analyst,Mid Level,Full-time,On-site,4.6,9.3,23-06-2026,Quantix Analytics,Data & AI,Gurugram,India
+69,1003,2007,Business Analyst,Senior Level,Full-time,Hybrid,5.8,12.9,08-03-2026,CloudPeak Systems,Cloud Computing,Gurugram,India
+70,1010,2010,Backend Developer,Mid Level,Full-time,On-site,5.6,13.2,17-09-2026,CodeCraft Solutions,Software Development,Ahmedabad,India
+71,1018,2013,Data Engineer,Mid Level,Full-time,Hybrid,6.5,15.4,14-01-2026,RetailTech Systems,Retail Technology,Jaipur,India
+72,1001,2002,Frontend Developer,Entry Level,Full-time,On-site,3.1,8.7,03-08-2026,TechNova Solutions,Information Technology,Pune,India
+73,1020,2001,Frontend Developer,Entry Level,Full-time,On-site,3,8.1,06-08-2026,BusinessEdge Consulting,Consulting,Mumbai,India
+74,1010,2001,Data Analyst,Mid Level,Full-time,Remote,4.4,9.3,29-01-2026,CodeCraft Solutions,Software Development,Mumbai,India
+75,1017,2009,NLP Engineer,Entry Level,Full-time,Remote,5.7,13.7,06-02-2026,HealthTech Innovations,Healthcare Technology,Kolkata,India
+76,1011,2003,AI Engineer,Entry Level,Full-time,Hybrid,5.5,13.7,05-07-2026,InsightWorks,Analytics & Consulting,Bengaluru,India
+77,1004,2009,NLP Engineer,Entry Level,Full-time,Remote,6.1,12.9,28-06-2026,FinEdge Technologies,FinTech,Kolkata,India
+78,1016,2008,NLP Engineer,Mid Level,Full-time,Hybrid,7.2,17.5,18-08-2026,MarketPulse,E-commerce & Technology,Noida,India
+79,1010,2008,Machine Learning Engineer,Entry Level,Full-time,On-site,5.5,13.5,27-05-2026,CodeCraft Solutions,Software Development,Noida,India
+80,1002,2008,Frontend Developer,Entry Level,Full-time,Remote,3.5,8.6,25-06-2026,DataSphere Analytics,Analytics & Consulting,Noida,India
+81,1011,2011,Frontend Developer,Entry Level,Full-time,Hybrid,3.7,8.4,21-06-2026,InsightWorks,Analytics & Consulting,Navi Mumbai,India
+82,1003,2010,DevOps Engineer,Senior Level,Full-time,Remote,8.3,18.8,08-06-2026,CloudPeak Systems,Cloud Computing,Ahmedabad,India
+83,1017,2002,Backend Developer,Entry Level,Full-time,Hybrid,3.9,10.5,05-07-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+84,1018,2014,Business Analyst,Entry Level,Full-time,Hybrid,4,7.7,22-06-2026,RetailTech Systems,Retail Technology,Indore,India
+85,1015,2004,Backend Developer,Entry Level,Full-time,On-site,4.2,9.9,29-08-2026,CloudMatrix,Cloud Computing,Hyderabad,India
+86,1020,2003,Software Engineer,Entry Level,Full-time,On-site,3.9,9.8,04-09-2026,BusinessEdge Consulting,Consulting,Bengaluru,India
+87,1008,2014,BI Developer,Entry Level,Full-time,On-site,3.7,9.1,14-01-2026,BlueOrbit Technologies,Software Development,Indore,India
+88,1011,2013,Data Engineer,Entry Level,Full-time,On-site,5.4,12.3,30-08-2026,InsightWorks,Analytics & Consulting,Jaipur,India
+89,1010,2002,AI Engineer,Mid Level,Full-time,Hybrid,7.1,17.9,23-08-2026,CodeCraft Solutions,Software Development,Pune,India
+90,1003,2009,Data Analyst,Entry Level,Contract,On-site,3.4,6.9,27-09-2026,CloudPeak Systems,Cloud Computing,Kolkata,India
+91,1004,2013,Machine Learning Engineer,Entry Level,Full-time,Hybrid,5.6,13.7,10-03-2026,FinEdge Technologies,FinTech,Jaipur,India
+92,1002,2005,Business Analyst,Entry Level,Full-time,Hybrid,4,8.3,22-01-2026,DataSphere Analytics,Analytics & Consulting,Chennai,India
+93,1011,2005,Business Analyst,Entry Level,Full-time,Hybrid,4,8.2,24-07-2026,InsightWorks,Analytics & Consulting,Chennai,India
+94,1020,2014,Software Engineer,Mid Level,Full-time,On-site,5.5,12.4,22-02-2026,BusinessEdge Consulting,Consulting,Indore,India
+95,1014,2005,Machine Learning Engineer,Entry Level,Full-time,Hybrid,6.1,13.3,30-01-2026,AIWorks India,Artificial Intelligence,Chennai,India
+96,1012,2006,Backend Developer,Entry Level,Full-time,Hybrid,3.9,9.8,20-03-2026,CyberCore Technologies,Cybersecurity,Delhi,India
+97,1016,2009,Backend Developer,Entry Level,Full-time,Hybrid,3.9,10.5,15-05-2026,MarketPulse,E-commerce & Technology,Kolkata,India
+98,1011,2011,Software Engineer,Senior Level,Full-time,On-site,6.8,16,05-10-2026,InsightWorks,Analytics & Consulting,Navi Mumbai,India
+99,1019,2006,Cloud Engineer,Entry Level,Full-time,Remote,5,11.6,08-03-2026,SecureNet Labs,Cybersecurity,Delhi,India
+100,1017,2006,Data Analyst,Senior Level,Full-time,Remote,5.6,11.8,04-04-2026,HealthTech Innovations,Healthcare Technology,Delhi,India
+101,1010,2014,QA Analyst,Entry Level,Full-time,On-site,3.3,6.9,21-05-2026,CodeCraft Solutions,Software Development,Indore,India
+102,1020,2006,Frontend Developer,Mid Level,Full-time,Hybrid,4,11,15-01-2026,BusinessEdge Consulting,Consulting,Delhi,India
+103,1018,2005,Frontend Developer,Mid Level,Full-time,On-site,3.9,11.4,06-05-2026,RetailTech Systems,Retail Technology,Chennai,India
+104,1011,2012,Software Engineer,Entry Level,Contract,On-site,4.3,9.9,24-07-2026,InsightWorks,Analytics & Consulting,Thane,India
+105,1014,2004,Business Analyst,Entry Level,Contract,Remote,4.1,8.2,17-06-2026,AIWorks India,Artificial Intelligence,Hyderabad,India
+106,1002,2005,Software Engineer,Senior Level,Full-time,Remote,6.6,16.4,29-08-2026,DataSphere Analytics,Analytics & Consulting,Chennai,India
+107,1018,2005,Machine Learning Engineer,Entry Level,Full-time,Hybrid,5.9,13.1,24-05-2026,RetailTech Systems,Retail Technology,Chennai,India
+108,1016,2009,Data Engineer,Entry Level,Full-time,Hybrid,4.7,12.1,21-09-2026,MarketPulse,E-commerce & Technology,Kolkata,India
+109,1012,2006,Software Engineer,Mid Level,Full-time,Remote,5.2,13.4,07-06-2026,CyberCore Technologies,Cybersecurity,Delhi,India
+110,1005,2014,Business Analyst,Mid Level,Full-time,On-site,4.9,10.2,26-02-2026,InnoSoft Labs,Software Development,Indore,India
+111,1002,2012,Data Engineer,Mid Level,Full-time,On-site,6.7,15.5,16-06-2026,DataSphere Analytics,Analytics & Consulting,Thane,India
+112,1020,2008,NLP Engineer,Mid Level,Full-time,On-site,7.6,17.4,02-06-2026,BusinessEdge Consulting,Consulting,Noida,India
+113,1019,2011,Software Engineer,Senior Level,Full-time,Remote,7,16.3,22-07-2026,SecureNet Labs,Cybersecurity,Navi Mumbai,India
+114,1009,2003,Business Analyst,Mid Level,Full-time,Hybrid,4.6,9.9,03-05-2026,Vertex Systems,IT Services,Bengaluru,India
+115,1018,2015,AI Engineer,Entry Level,Full-time,Hybrid,6.1,13.6,01-09-2026,RetailTech Systems,Retail Technology,Remote,India
+116,1006,2015,AI Engineer,Senior Level,Full-time,Remote,9.9,22.9,23-07-2026,NextGen Digital,Information Technology,Remote,India
+117,1017,2008,Backend Developer,Mid Level,Full-time,Remote,5.7,12.5,19-06-2026,HealthTech Innovations,Healthcare Technology,Noida,India
+118,1013,2014,Data Scientist,Mid Level,Full-time,On-site,6.2,15.2,25-07-2026,AppVantage,Software Development,Indore,India
+119,1019,2001,Software Engineer,Entry Level,Full-time,Hybrid,4.1,10.3,01-05-2026,SecureNet Labs,Cybersecurity,Mumbai,India
+120,1015,2012,Data Engineer,Entry Level,Contract,Hybrid,5.4,11.8,30-08-2026,CloudMatrix,Cloud Computing,Thane,India
+121,1017,2008,BI Developer,Entry Level,Full-time,On-site,3.8,8.1,08-09-2026,HealthTech Innovations,Healthcare Technology,Noida,India
+122,1001,2007,Software Engineer,Entry Level,Full-time,On-site,4.2,10.6,22-04-2026,TechNova Solutions,Information Technology,Gurugram,India
+123,1014,2006,Software Engineer,Entry Level,Contract,Hybrid,3.9,9.7,13-07-2026,AIWorks India,Artificial Intelligence,Delhi,India
+124,1010,2008,AI Engineer,Entry Level,Full-time,Hybrid,5.4,13.7,30-09-2026,CodeCraft Solutions,Software Development,Noida,India
+125,1007,2002,Data Engineer,Mid Level,Full-time,On-site,6.7,14.4,25-01-2026,Quantix Analytics,Data & AI,Pune,India
+126,1020,2013,Data Scientist,Mid Level,Full-time,On-site,6.6,14.8,04-06-2026,BusinessEdge Consulting,Consulting,Jaipur,India
+127,1016,2001,DevOps Engineer,Senior Level,Contract,Remote,8.3,19.2,15-07-2026,MarketPulse,E-commerce & Technology,Mumbai,India
+128,1015,2015,Software Engineer,Mid Level,Full-time,Hybrid,5.2,13.2,02-08-2026,CloudMatrix,Cloud Computing,Remote,India
+129,1020,2010,Data Analyst,Mid Level,Full-time,On-site,4.1,9,22-04-2026,BusinessEdge Consulting,Consulting,Ahmedabad,India
+130,1013,2015,NLP Engineer,Senior Level,Full-time,On-site,9.7,22.2,25-05-2026,AppVantage,Software Development,Remote,India
+131,1011,2015,Software Engineer,Entry Level,Full-time,On-site,4.6,10.2,24-01-2026,InsightWorks,Analytics & Consulting,Remote,India
+132,1011,2005,Data Scientist,Mid Level,Full-time,Hybrid,6.2,15.1,09-09-2026,InsightWorks,Analytics & Consulting,Chennai,India
+133,1001,2007,DevOps Engineer,Entry Level,Full-time,Hybrid,5.3,11.2,04-02-2026,TechNova Solutions,Information Technology,Gurugram,India
+134,1009,2009,Data Analyst,Mid Level,Contract,On-site,4.2,8.6,09-08-2026,Vertex Systems,IT Services,Kolkata,India
+135,1013,2008,Cloud Engineer,Entry Level,Full-time,Remote,4.9,11.7,26-04-2026,AppVantage,Software Development,Noida,India
+136,1014,2011,Software Engineer,Mid Level,Full-time,Hybrid,5.5,12.4,18-02-2026,AIWorks India,Artificial Intelligence,Navi Mumbai,India
+137,1006,2015,Backend Developer,Entry Level,Full-time,On-site,4.2,10.4,17-04-2026,NextGen Digital,Information Technology,Remote,India
+138,1005,2013,DevOps Engineer,Mid Level,Contract,Hybrid,6.4,14.9,14-09-2026,InnoSoft Labs,Software Development,Jaipur,India
+139,1009,2013,Frontend Developer,Mid Level,Contract,Hybrid,4.7,10.6,02-07-2026,Vertex Systems,IT Services,Jaipur,India
+140,1013,2006,Data Analyst,Entry Level,Full-time,On-site,3.5,7.5,07-06-2026,AppVantage,Software Development,Delhi,India
+141,1020,2010,Software Engineer,Entry Level,Full-time,Remote,3.9,10.3,07-01-2026,BusinessEdge Consulting,Consulting,Ahmedabad,India
+142,1006,2007,Business Analyst,Entry Level,Full-time,On-site,3.6,7.3,09-02-2026,NextGen Digital,Information Technology,Gurugram,India
+143,1011,2008,QA Analyst,Entry Level,Full-time,Remote,3.1,7.3,11-03-2026,InsightWorks,Analytics & Consulting,Noida,India
+144,1019,2013,QA Analyst,Entry Level,Full-time,Hybrid,3.1,6.9,21-07-2026,SecureNet Labs,Cybersecurity,Jaipur,India
+145,1003,2014,Software Engineer,Mid Level,Full-time,Hybrid,5.3,12.7,13-09-2026,CloudPeak Systems,Cloud Computing,Indore,India
+146,1014,2009,Software Engineer,Entry Level,Full-time,Remote,4.2,10.7,02-10-2026,AIWorks India,Artificial Intelligence,Kolkata,India
+147,1011,2013,Software Engineer,Mid Level,Full-time,On-site,5.5,13.6,13-05-2026,InsightWorks,Analytics & Consulting,Jaipur,India
+148,1014,2015,Software Engineer,Entry Level,Contract,On-site,3.8,9.7,14-03-2026,AIWorks India,Artificial Intelligence,Remote,India
+149,1004,2001,AI Engineer,Entry Level,Full-time,Hybrid,5.7,14.7,26-03-2026,FinEdge Technologies,FinTech,Mumbai,India
+150,1001,2012,Data Engineer,Entry Level,Full-time,On-site,5.1,11.7,08-08-2026,TechNova Solutions,Information Technology,Thane,India
+151,1011,2010,Business Analyst,Entry Level,Full-time,Hybrid,3.9,7.7,28-02-2026,InsightWorks,Analytics & Consulting,Ahmedabad,India
+152,1004,2003,Frontend Developer,Mid Level,Full-time,On-site,4.2,10.5,18-07-2026,FinEdge Technologies,FinTech,Bengaluru,India
+153,1006,2008,Software Engineer,Senior Level,Full-time,On-site,7.2,16.1,19-08-2026,NextGen Digital,Information Technology,Noida,India
+154,1016,2003,Software Engineer,Mid Level,Full-time,On-site,5.3,13.4,23-04-2026,MarketPulse,E-commerce & Technology,Bengaluru,India
+155,1012,2009,Data Analyst,Entry Level,Full-time,On-site,3.6,7.7,14-08-2026,CyberCore Technologies,Cybersecurity,Kolkata,India
+156,1008,2004,Machine Learning Engineer,Mid Level,Full-time,Hybrid,7.4,17.8,29-06-2026,BlueOrbit Technologies,Software Development,Hyderabad,India
+157,1019,2005,Frontend Developer,Entry Level,Contract,Hybrid,3.8,8.3,18-02-2026,SecureNet Labs,Cybersecurity,Chennai,India
+158,1013,2008,Data Scientist,Mid Level,Full-time,Hybrid,6.7,15.4,01-08-2026,AppVantage,Software Development,Noida,India
+159,1003,2012,Software Engineer,Mid Level,Contract,Hybrid,5.6,13.4,03-07-2026,CloudPeak Systems,Cloud Computing,Thane,India
+160,1011,2015,Data Scientist,Mid Level,Full-time,On-site,6.1,15.5,20-02-2026,InsightWorks,Analytics & Consulting,Remote,India
+161,1009,2002,Backend Developer,Entry Level,Full-time,On-site,4.3,9.7,10-07-2026,Vertex Systems,IT Services,Pune,India
+162,1001,2012,Data Analyst,Mid Level,Full-time,On-site,4.3,9.2,05-08-2026,TechNova Solutions,Information Technology,Thane,India
+163,1005,2011,DevOps Engineer,Entry Level,Contract,On-site,5.2,12.2,29-09-2026,InnoSoft Labs,Software Development,Navi Mumbai,India
+164,1005,2013,Frontend Developer,Entry Level,Full-time,Hybrid,3.2,9.1,29-06-2026,InnoSoft Labs,Software Development,Jaipur,India
+165,1001,2014,Frontend Developer,Mid Level,Full-time,Remote,4.1,11.4,16-04-2026,TechNova Solutions,Information Technology,Indore,India
+166,1001,2006,Data Analyst,Mid Level,Contract,On-site,4.4,9.3,04-08-2026,TechNova Solutions,Information Technology,Delhi,India
+167,1017,2013,Data Analyst,Entry Level,Full-time,Hybrid,3.6,7.3,12-02-2026,HealthTech Innovations,Healthcare Technology,Jaipur,India
+168,1003,2005,Data Engineer,Mid Level,Full-time,Hybrid,6.7,15.3,03-05-2026,CloudPeak Systems,Cloud Computing,Chennai,India
+169,1001,2003,Backend Developer,Entry Level,Full-time,On-site,3.8,9.7,22-09-2026,TechNova Solutions,Information Technology,Bengaluru,India
+170,1003,2008,Data Engineer,Mid Level,Full-time,Hybrid,6.2,15.7,13-09-2026,CloudPeak Systems,Cloud Computing,Noida,India
+171,1012,2007,Data Analyst,Senior Level,Contract,On-site,5.1,11.2,19-01-2026,CyberCore Technologies,Cybersecurity,Gurugram,India
+172,1013,2002,BI Developer,Entry Level,Full-time,Remote,4,9.2,09-06-2026,AppVantage,Software Development,Pune,India
+173,1016,2013,Cloud Engineer,Mid Level,Full-time,Hybrid,6.2,14.9,07-10-2026,MarketPulse,E-commerce & Technology,Jaipur,India
+174,1013,2014,DevOps Engineer,Senior Level,Full-time,On-site,8.6,18.6,16-04-2026,AppVantage,Software Development,Indore,India
+175,1003,2010,BI Developer,Mid Level,Full-time,On-site,5,10.7,21-07-2026,CloudPeak Systems,Cloud Computing,Ahmedabad,India
+176,1011,2006,Data Scientist,Entry Level,Full-time,On-site,4.9,12.2,14-04-2026,InsightWorks,Analytics & Consulting,Delhi,India
+177,1009,2014,Software Engineer,Senior Level,Full-time,On-site,6.6,16.3,05-06-2026,Vertex Systems,IT Services,Indore,India
+178,1013,2014,Backend Developer,Entry Level,Full-time,Hybrid,4.6,9.6,08-05-2026,AppVantage,Software Development,Indore,India
+179,1003,2010,Cybersecurity Analyst,Entry Level,Full-time,Remote,4.5,9.2,08-02-2026,CloudPeak Systems,Cloud Computing,Ahmedabad,India
+180,1015,2001,Data Analyst,Mid Level,Full-time,Hybrid,4.5,8.8,22-07-2026,CloudMatrix,Cloud Computing,Mumbai,India
+181,1010,2008,Software Engineer,Entry Level,Full-time,Hybrid,4.3,10.3,01-02-2026,CodeCraft Solutions,Software Development,Noida,India
+182,1016,2009,Software Engineer,Entry Level,Full-time,On-site,4.1,10.5,15-09-2026,MarketPulse,E-commerce & Technology,Kolkata,India
+183,1004,2004,Software Engineer,Mid Level,Full-time,On-site,5.7,13.6,29-01-2026,FinEdge Technologies,FinTech,Hyderabad,India
+184,1012,2010,AI Engineer,Entry Level,Full-time,Hybrid,5.9,14.6,07-04-2026,CyberCore Technologies,Cybersecurity,Ahmedabad,India
+185,1005,2006,Data Analyst,Mid Level,Full-time,Remote,4.2,9.4,15-06-2026,InnoSoft Labs,Software Development,Delhi,India
+186,1004,2006,QA Analyst,Entry Level,Full-time,On-site,3.3,6.8,22-03-2026,FinEdge Technologies,FinTech,Delhi,India
+187,1006,2012,Cloud Engineer,Entry Level,Full-time,Hybrid,5.2,11.6,20-07-2026,NextGen Digital,Information Technology,Thane,India
+188,1003,2014,Data Analyst,Entry Level,Full-time,Hybrid,3.2,7.5,21-06-2026,CloudPeak Systems,Cloud Computing,Indore,India
+189,1014,2008,Data Analyst,Entry Level,Full-time,Hybrid,3.3,6.9,12-07-2026,AIWorks India,Artificial Intelligence,Noida,India
+190,1003,2009,QA Analyst,Entry Level,Contract,Remote,2.7,6.7,23-06-2026,CloudPeak Systems,Cloud Computing,Kolkata,India
+191,1018,2005,Machine Learning Engineer,Senior Level,Full-time,On-site,9.5,22,19-02-2026,RetailTech Systems,Retail Technology,Chennai,India
+192,1010,2002,Backend Developer,Mid Level,Full-time,On-site,5,12.6,23-07-2026,CodeCraft Solutions,Software Development,Pune,India
+193,1008,2014,Data Engineer,Entry Level,Full-time,On-site,4.8,11.8,19-02-2026,BlueOrbit Technologies,Software Development,Indore,India
+194,1008,2008,Data Engineer,Mid Level,Full-time,Hybrid,6.7,15,18-01-2026,BlueOrbit Technologies,Software Development,Noida,India
+195,1020,2005,Cybersecurity Analyst,Entry Level,Full-time,Hybrid,4.6,9.5,04-02-2026,BusinessEdge Consulting,Consulting,Chennai,India
+196,1019,2009,Software Engineer,Senior Level,Full-time,On-site,6.5,16.8,18-03-2026,SecureNet Labs,Cybersecurity,Kolkata,India
+197,1013,2003,Backend Developer,Mid Level,Full-time,Hybrid,5.3,12.5,25-07-2026,AppVantage,Software Development,Bengaluru,India
+198,1010,2005,Data Scientist,Entry Level,Full-time,Remote,4.9,12.2,20-02-2026,CodeCraft Solutions,Software Development,Chennai,India
+199,1016,2013,Backend Developer,Entry Level,Full-time,Hybrid,4,10.6,29-01-2026,MarketPulse,E-commerce & Technology,Jaipur,India
+200,1007,2005,DevOps Engineer,Entry Level,Full-time,Hybrid,5,12.4,23-07-2026,Quantix Analytics,Data & AI,Chennai,India
+201,1003,2005,Frontend Developer,Entry Level,Full-time,On-site,3.1,9.1,20-04-2026,CloudPeak Systems,Cloud Computing,Chennai,India
+202,1005,2011,Data Analyst,Mid Level,Full-time,Remote,4.5,8.6,25-04-2026,InnoSoft Labs,Software Development,Navi Mumbai,India
+203,1017,2011,Backend Developer,Mid Level,Contract,Remote,5.3,12.4,25-05-2026,HealthTech Innovations,Healthcare Technology,Navi Mumbai,India
+204,1005,2009,Data Scientist,Mid Level,Full-time,Remote,6.7,14.8,26-07-2026,InnoSoft Labs,Software Development,Kolkata,India
+205,1008,2011,Data Analyst,Mid Level,Full-time,Hybrid,4.4,8.9,03-07-2026,BlueOrbit Technologies,Software Development,Navi Mumbai,India
+206,1003,2004,Software Engineer,Senior Level,Full-time,Hybrid,7.2,17.1,07-06-2026,CloudPeak Systems,Cloud Computing,Hyderabad,India
+207,1017,2002,Frontend Developer,Senior Level,Full-time,Hybrid,5.2,14.4,02-06-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+208,1006,2013,BI Developer,Senior Level,Full-time,On-site,5.9,14.3,01-04-2026,NextGen Digital,Information Technology,Jaipur,India
+209,1003,2003,Business Analyst,Mid Level,Full-time,Hybrid,4.8,10.1,26-07-2026,CloudPeak Systems,Cloud Computing,Bengaluru,India
+210,1001,2011,BI Developer,Mid Level,Full-time,On-site,4.8,10.2,26-06-2026,TechNova Solutions,Information Technology,Navi Mumbai,India
+211,1011,2007,Machine Learning Engineer,Entry Level,Full-time,Remote,6,13.6,25-06-2026,InsightWorks,Analytics & Consulting,Gurugram,India
+212,1002,2007,Data Analyst,Mid Level,Full-time,On-site,4,9.5,01-10-2026,DataSphere Analytics,Analytics & Consulting,Gurugram,India
+213,1001,2005,Business Analyst,Entry Level,Full-time,On-site,4,7.3,24-09-2026,TechNova Solutions,Information Technology,Chennai,India
+214,1007,2006,Software Engineer,Mid Level,Full-time,On-site,5.6,13.4,21-01-2026,Quantix Analytics,Data & AI,Delhi,India
+215,1017,2002,DevOps Engineer,Mid Level,Full-time,On-site,6.1,14.5,12-05-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+216,1014,2012,DevOps Engineer,Senior Level,Full-time,Remote,8.1,19.5,24-01-2026,AIWorks India,Artificial Intelligence,Thane,India
+217,1011,2003,QA Analyst,Entry Level,Full-time,Hybrid,3.2,6.7,22-08-2026,InsightWorks,Analytics & Consulting,Bengaluru,India
+218,1019,2008,AI Engineer,Senior Level,Full-time,Hybrid,9.8,22.8,03-04-2026,SecureNet Labs,Cybersecurity,Noida,India
+219,1017,2013,Data Engineer,Entry Level,Full-time,Hybrid,5.1,11.2,25-04-2026,HealthTech Innovations,Healthcare Technology,Jaipur,India
+220,1020,2001,Backend Developer,Entry Level,Full-time,Remote,4.5,10.7,16-09-2026,BusinessEdge Consulting,Consulting,Mumbai,India
+221,1008,2002,Data Scientist,Mid Level,Full-time,Remote,6.4,14.9,18-08-2026,BlueOrbit Technologies,Software Development,Pune,India
+222,1020,2011,Data Analyst,Mid Level,Full-time,Hybrid,4.6,9.7,16-04-2026,BusinessEdge Consulting,Consulting,Navi Mumbai,India
+223,1001,2006,Machine Learning Engineer,Mid Level,Full-time,Hybrid,7.1,17.4,30-05-2026,TechNova Solutions,Information Technology,Delhi,India
+224,1007,2012,Business Analyst,Senior Level,Full-time,Hybrid,6.1,12.4,24-01-2026,Quantix Analytics,Data & AI,Thane,India
+225,1006,2012,Data Engineer,Mid Level,Full-time,Hybrid,6.7,15.4,07-03-2026,NextGen Digital,Information Technology,Thane,India
+226,1017,2005,Cybersecurity Analyst,Mid Level,Full-time,Hybrid,5.1,11.8,10-06-2026,HealthTech Innovations,Healthcare Technology,Chennai,India
+227,1006,2009,BI Developer,Entry Level,Full-time,Hybrid,4,9.2,01-03-2026,NextGen Digital,Information Technology,Kolkata,India
+228,1002,2011,Data Engineer,Entry Level,Full-time,On-site,4.7,11.7,24-03-2026,DataSphere Analytics,Analytics & Consulting,Navi Mumbai,India
+229,1018,2007,Data Analyst,Senior Level,Full-time,Hybrid,5.7,12.3,28-05-2026,RetailTech Systems,Retail Technology,Gurugram,India
+230,1008,2015,Business Analyst,Senior Level,Full-time,Hybrid,6.5,12.4,08-07-2026,BlueOrbit Technologies,Software Development,Remote,India
+231,1009,2003,AI Engineer,Entry Level,Full-time,Remote,5.5,14,03-01-2026,Vertex Systems,IT Services,Bengaluru,India
+232,1008,2003,Frontend Developer,Entry Level,Full-time,Hybrid,3.6,8.3,23-03-2026,BlueOrbit Technologies,Software Development,Bengaluru,India
+233,1020,2009,Backend Developer,Entry Level,Full-time,Hybrid,4,10.8,05-01-2026,BusinessEdge Consulting,Consulting,Kolkata,India
+234,1018,2012,Machine Learning Engineer,Senior Level,Full-time,Remote,9.9,21.8,11-07-2026,RetailTech Systems,Retail Technology,Thane,India
+235,1003,2004,Business Analyst,Senior Level,Full-time,Hybrid,6.2,11.9,06-08-2026,CloudPeak Systems,Cloud Computing,Hyderabad,India
+236,1006,2013,Data Analyst,Mid Level,Full-time,On-site,3.9,8.7,27-04-2026,NextGen Digital,Information Technology,Jaipur,India
+237,1019,2001,Data Analyst,Entry Level,Full-time,On-site,3.6,6.8,15-09-2026,SecureNet Labs,Cybersecurity,Mumbai,India
+238,1013,2013,Backend Developer,Mid Level,Full-time,Hybrid,5.4,12.5,15-03-2026,AppVantage,Software Development,Jaipur,India
+239,1012,2004,Data Engineer,Mid Level,Full-time,Hybrid,6.1,14.7,20-09-2026,CyberCore Technologies,Cybersecurity,Hyderabad,India
+240,1018,2008,Frontend Developer,Entry Level,Full-time,On-site,3.6,9.2,04-02-2026,RetailTech Systems,Retail Technology,Noida,India
+241,1016,2008,Data Scientist,Entry Level,Full-time,Hybrid,4.7,11.4,20-03-2026,MarketPulse,E-commerce & Technology,Noida,India
+242,1015,2006,Machine Learning Engineer,Mid Level,Full-time,Hybrid,7.3,17.1,25-02-2026,CloudMatrix,Cloud Computing,Delhi,India
+243,1001,2014,Backend Developer,Mid Level,Full-time,Hybrid,5.7,13.4,19-04-2026,TechNova Solutions,Information Technology,Indore,India
+244,1017,2009,BI Developer,Mid Level,Full-time,Hybrid,5.1,10.4,06-01-2026,HealthTech Innovations,Healthcare Technology,Kolkata,India
+245,1012,2001,Frontend Developer,Senior Level,Full-time,Hybrid,5.2,14.2,02-02-2026,CyberCore Technologies,Cybersecurity,Mumbai,India
+246,1004,2012,BI Developer,Senior Level,Contract,Hybrid,5.8,14,21-05-2026,FinEdge Technologies,FinTech,Thane,India
+247,1008,2009,BI Developer,Entry Level,Full-time,Remote,3.6,9.2,26-06-2026,BlueOrbit Technologies,Software Development,Kolkata,India
+248,1006,2006,Data Scientist,Mid Level,Full-time,Remote,6.2,14.6,28-04-2026,NextGen Digital,Information Technology,Delhi,India
+249,1005,2011,Data Engineer,Entry Level,Full-time,Remote,4.7,12,17-03-2026,InnoSoft Labs,Software Development,Navi Mumbai,India
+250,1016,2014,Cloud Engineer,Senior Level,Full-time,On-site,8,19.4,30-07-2026,MarketPulse,E-commerce & Technology,Indore,India
+251,1017,2014,Data Analyst,Entry Level,Full-time,Hybrid,3.1,6.7,18-03-2026,HealthTech Innovations,Healthcare Technology,Indore,India
+252,1014,2009,Business Analyst,Mid Level,Full-time,Remote,5.1,10.3,29-09-2026,AIWorks India,Artificial Intelligence,Kolkata,India
+253,1020,2015,Data Scientist,Mid Level,Full-time,On-site,6.7,14.5,03-01-2026,BusinessEdge Consulting,Consulting,Remote,India
+254,1009,2014,Data Engineer,Entry Level,Full-time,Hybrid,5,11.9,22-05-2026,Vertex Systems,IT Services,Indore,India
+255,1004,2012,Frontend Developer,Mid Level,Full-time,Hybrid,4.2,10.4,24-03-2026,FinEdge Technologies,FinTech,Thane,India
+256,1003,2014,Backend Developer,Entry Level,Full-time,Remote,4.1,10.4,11-08-2026,CloudPeak Systems,Cloud Computing,Indore,India
+257,1020,2001,BI Developer,Entry Level,Contract,Remote,3.9,8.3,11-09-2026,BusinessEdge Consulting,Consulting,Mumbai,India
+258,1012,2004,Software Engineer,Mid Level,Full-time,Remote,5.4,13.2,14-02-2026,CyberCore Technologies,Cybersecurity,Hyderabad,India
+259,1019,2006,Data Analyst,Entry Level,Full-time,Remote,3.2,7.7,26-04-2026,SecureNet Labs,Cybersecurity,Delhi,India
+260,1017,2005,Software Engineer,Mid Level,Full-time,Remote,5.2,12.5,09-05-2026,HealthTech Innovations,Healthcare Technology,Chennai,India
+261,1008,2011,DevOps Engineer,Mid Level,Full-time,Remote,6.2,14.9,31-07-2026,BlueOrbit Technologies,Software Development,Navi Mumbai,India
+262,1011,2006,NLP Engineer,Entry Level,Full-time,Hybrid,5.9,13.1,04-04-2026,InsightWorks,Analytics & Consulting,Delhi,India
+263,1004,2002,Business Analyst,Entry Level,Contract,Hybrid,3.9,7.3,10-09-2026,FinEdge Technologies,FinTech,Pune,India
+264,1017,2005,DevOps Engineer,Mid Level,Full-time,Hybrid,6.2,14.6,07-03-2026,HealthTech Innovations,Healthcare Technology,Chennai,India
+265,1017,2008,DevOps Engineer,Mid Level,Full-time,On-site,6.4,14.6,18-04-2026,HealthTech Innovations,Healthcare Technology,Noida,India
+266,1016,2007,Data Scientist,Mid Level,Full-time,Hybrid,6.5,14.9,10-07-2026,MarketPulse,E-commerce & Technology,Gurugram,India
+267,1007,2003,AI Engineer,Mid Level,Full-time,Hybrid,7.5,18.7,31-08-2026,Quantix Analytics,Data & AI,Bengaluru,India
+268,1002,2004,Software Engineer,Mid Level,Full-time,Hybrid,5.3,13.2,19-02-2026,DataSphere Analytics,Analytics & Consulting,Hyderabad,India
+269,1018,2003,Machine Learning Engineer,Mid Level,Contract,On-site,7.5,17.2,16-06-2026,RetailTech Systems,Retail Technology,Bengaluru,India
+270,1013,2014,Backend Developer,Senior Level,Full-time,On-site,6.8,16.7,25-06-2026,AppVantage,Software Development,Indore,India
+271,1019,2009,Data Scientist,Entry Level,Contract,Hybrid,5.3,11.7,05-04-2026,SecureNet Labs,Cybersecurity,Kolkata,India
+272,1013,2009,Data Analyst,Senior Level,Full-time,On-site,5.5,11.2,15-05-2026,AppVantage,Software Development,Kolkata,India
+273,1011,2014,Business Analyst,Mid Level,Full-time,Remote,4.4,10,04-10-2026,InsightWorks,Analytics & Consulting,Indore,India
+274,1010,2015,Backend Developer,Mid Level,Full-time,Hybrid,5.4,13.1,15-02-2026,CodeCraft Solutions,Software Development,Remote,India
+275,1016,2005,Machine Learning Engineer,Mid Level,Full-time,Hybrid,7.1,17.7,30-05-2026,MarketPulse,E-commerce & Technology,Chennai,India
+276,1003,2007,AI Engineer,Mid Level,Full-time,Hybrid,7.7,17.8,20-05-2026,CloudPeak Systems,Cloud Computing,Gurugram,India
+277,1001,2003,Frontend Developer,Entry Level,Full-time,Hybrid,3.5,8.1,06-04-2026,TechNova Solutions,Information Technology,Bengaluru,India
+278,1016,2006,Business Analyst,Mid Level,Full-time,Hybrid,4.7,9.6,19-06-2026,MarketPulse,E-commerce & Technology,Delhi,India
+279,1004,2013,Business Analyst,Mid Level,Full-time,Hybrid,5.1,10.2,15-08-2026,FinEdge Technologies,FinTech,Jaipur,India
+280,1018,2009,QA Analyst,Senior Level,Full-time,Hybrid,4.6,11.4,02-06-2026,RetailTech Systems,Retail Technology,Kolkata,India
+281,1008,2001,Machine Learning Engineer,Entry Level,Contract,Hybrid,5.7,13,01-09-2026,BlueOrbit Technologies,Software Development,Mumbai,India
+282,1005,2012,QA Analyst,Senior Level,Full-time,On-site,4.9,10.6,07-09-2026,InnoSoft Labs,Software Development,Thane,India
+283,1015,2009,Data Engineer,Mid Level,Full-time,Hybrid,6.2,14.5,08-04-2026,CloudMatrix,Cloud Computing,Kolkata,India
+284,1017,2007,Software Engineer,Mid Level,Full-time,Remote,5.4,12.9,06-07-2026,HealthTech Innovations,Healthcare Technology,Gurugram,India
+285,1011,2002,NLP Engineer,Entry Level,Full-time,Hybrid,5.7,13.4,23-01-2026,InsightWorks,Analytics & Consulting,Pune,India
+286,1019,2005,Frontend Developer,Mid Level,Full-time,On-site,4.4,10.9,06-02-2026,SecureNet Labs,Cybersecurity,Chennai,India
+287,1012,2013,Data Analyst,Mid Level,Full-time,Remote,4.7,9.2,17-05-2026,CyberCore Technologies,Cybersecurity,Jaipur,India
+288,1006,2009,Software Engineer,Entry Level,Full-time,Hybrid,4.2,9.9,24-02-2026,NextGen Digital,Information Technology,Kolkata,India
+289,1018,2006,Software Engineer,Mid Level,Full-time,Hybrid,5.7,13.5,09-08-2026,RetailTech Systems,Retail Technology,Delhi,India
+290,1005,2015,Data Analyst,Entry Level,Full-time,On-site,3.2,6.7,24-04-2026,InnoSoft Labs,Software Development,Remote,India
+291,1009,2013,Business Analyst,Entry Level,Full-time,Hybrid,4.1,7.4,22-04-2026,Vertex Systems,IT Services,Jaipur,India
+292,1014,2007,Data Engineer,Mid Level,Contract,On-site,6.7,14.8,27-04-2026,AIWorks India,Artificial Intelligence,Gurugram,India
+293,1015,2013,Data Scientist,Entry Level,Full-time,Hybrid,5.2,11.7,24-04-2026,CloudMatrix,Cloud Computing,Jaipur,India
+294,1005,2008,Data Scientist,Entry Level,Full-time,Hybrid,5,12.1,11-04-2026,InnoSoft Labs,Software Development,Noida,India
+295,1001,2013,Data Engineer,Entry Level,Full-time,Remote,4.9,12,15-08-2026,TechNova Solutions,Information Technology,Jaipur,India
+296,1010,2001,Data Analyst,Entry Level,Full-time,Remote,3.7,7.9,06-06-2026,CodeCraft Solutions,Software Development,Mumbai,India
+297,1013,2010,Frontend Developer,Senior Level,Full-time,Hybrid,5.7,14.1,11-05-2026,AppVantage,Software Development,Ahmedabad,India
+298,1012,2014,QA Analyst,Entry Level,Full-time,On-site,3.1,7.1,17-07-2026,CyberCore Technologies,Cybersecurity,Indore,India
+299,1001,2001,Software Engineer,Entry Level,Full-time,Hybrid,4.2,10.1,20-06-2026,TechNova Solutions,Information Technology,Mumbai,India
+300,1013,2015,Cybersecurity Analyst,Mid Level,Contract,Remote,5.6,12.1,24-05-2026,AppVantage,Software Development,Remote,India
+301,1014,2004,Software Engineer,Mid Level,Full-time,Hybrid,5.6,13.2,09-06-2026,AIWorks India,Artificial Intelligence,Hyderabad,India
+302,1005,2011,BI Developer,Senior Level,Contract,Remote,6.1,14.4,12-06-2026,InnoSoft Labs,Software Development,Navi Mumbai,India
+303,1014,2005,Business Analyst,Entry Level,Full-time,Remote,3.6,8.3,21-05-2026,AIWorks India,Artificial Intelligence,Chennai,India
+304,1001,2006,Frontend Developer,Mid Level,Full-time,Hybrid,4.4,10.5,10-03-2026,TechNova Solutions,Information Technology,Delhi,India
+305,1009,2007,Business Analyst,Entry Level,Full-time,Hybrid,3.7,8.3,14-04-2026,Vertex Systems,IT Services,Gurugram,India
+306,1013,2012,Software Engineer,Entry Level,Full-time,Hybrid,4.1,9.6,02-10-2026,AppVantage,Software Development,Thane,India
+307,1002,2004,Cybersecurity Analyst,Entry Level,Full-time,Hybrid,4.1,9.7,05-06-2026,DataSphere Analytics,Analytics & Consulting,Hyderabad,India
+308,1017,2002,BI Developer,Mid Level,Full-time,Hybrid,4.9,10.3,07-10-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+309,1011,2012,BI Developer,Senior Level,Full-time,Hybrid,6.5,13.3,25-03-2026,InsightWorks,Analytics & Consulting,Thane,India
+310,1013,2009,Data Engineer,Mid Level,Full-time,Hybrid,6.4,15.6,21-06-2026,AppVantage,Software Development,Kolkata,India
+311,1005,2004,NLP Engineer,Entry Level,Full-time,Hybrid,5.9,13,07-01-2026,InnoSoft Labs,Software Development,Hyderabad,India
+312,1020,2001,Frontend Developer,Mid Level,Full-time,Hybrid,4.2,10.3,17-04-2026,BusinessEdge Consulting,Consulting,Mumbai,India
+313,1002,2002,Backend Developer,Mid Level,Full-time,On-site,5.2,13.5,26-05-2026,DataSphere Analytics,Analytics & Consulting,Pune,India
+314,1003,2005,BI Developer,Mid Level,Full-time,On-site,5,11.3,21-05-2026,CloudPeak Systems,Cloud Computing,Chennai,India
+315,1016,2012,Data Analyst,Mid Level,Full-time,Remote,4.4,9.9,28-05-2026,MarketPulse,E-commerce & Technology,Thane,India
+316,1010,2004,Backend Developer,Mid Level,Full-time,On-site,5.1,13.1,02-03-2026,CodeCraft Solutions,Software Development,Hyderabad,India
+317,1003,2005,Backend Developer,Entry Level,Full-time,Hybrid,4,9.9,04-01-2026,CloudPeak Systems,Cloud Computing,Chennai,India
+318,1005,2008,BI Developer,Mid Level,Full-time,Hybrid,4.8,10.2,02-10-2026,InnoSoft Labs,Software Development,Noida,India
+319,1012,2002,Data Analyst,Mid Level,Contract,On-site,4.2,9.8,16-01-2026,CyberCore Technologies,Cybersecurity,Pune,India
+320,1014,2002,NLP Engineer,Mid Level,Full-time,On-site,7.3,16.5,20-08-2026,AIWorks India,Artificial Intelligence,Pune,India
+321,1017,2003,BI Developer,Entry Level,Full-time,Remote,3.4,8.5,26-09-2026,HealthTech Innovations,Healthcare Technology,Bengaluru,India
+322,1010,2015,Data Analyst,Entry Level,Full-time,Remote,3.7,6.8,14-02-2026,CodeCraft Solutions,Software Development,Remote,India
+323,1015,2011,Business Analyst,Entry Level,Full-time,On-site,3.6,7.8,21-05-2026,CloudMatrix,Cloud Computing,Navi Mumbai,India
+324,1019,2004,Software Engineer,Entry Level,Full-time,On-site,4.6,10.6,23-06-2026,SecureNet Labs,Cybersecurity,Hyderabad,India
+325,1015,2010,Business Analyst,Mid Level,Full-time,On-site,4.9,10.2,12-04-2026,CloudMatrix,Cloud Computing,Ahmedabad,India
+326,1008,2003,Backend Developer,Mid Level,Full-time,Hybrid,5.3,12.6,06-07-2026,BlueOrbit Technologies,Software Development,Bengaluru,India
+327,1012,2010,Data Analyst,Mid Level,Full-time,Hybrid,4.6,9,27-07-2026,CyberCore Technologies,Cybersecurity,Ahmedabad,India
+328,1003,2006,Data Scientist,Entry Level,Full-time,Hybrid,4.7,11.8,09-08-2026,CloudPeak Systems,Cloud Computing,Delhi,India
+329,1020,2002,Data Analyst,Entry Level,Full-time,Hybrid,3.2,7.2,14-07-2026,BusinessEdge Consulting,Consulting,Pune,India
+330,1011,2005,Data Scientist,Mid Level,Full-time,Remote,6.4,14.7,05-06-2026,InsightWorks,Analytics & Consulting,Chennai,India
+331,1004,2014,QA Analyst,Entry Level,Full-time,On-site,3,7.5,10-08-2026,FinEdge Technologies,FinTech,Indore,India
+332,1012,2014,Backend Developer,Mid Level,Full-time,On-site,5.1,12.8,06-03-2026,CyberCore Technologies,Cybersecurity,Indore,India
+333,1014,2014,Backend Developer,Senior Level,Full-time,Hybrid,6.6,16.1,06-08-2026,AIWorks India,Artificial Intelligence,Indore,India
+334,1009,2007,Data Analyst,Mid Level,Contract,Hybrid,4.5,9.6,18-01-2026,Vertex Systems,IT Services,Gurugram,India
+335,1017,2002,Software Engineer,Senior Level,Full-time,Hybrid,7.1,16.3,06-05-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+336,1010,2005,Software Engineer,Mid Level,Full-time,Hybrid,5.3,13.5,05-06-2026,CodeCraft Solutions,Software Development,Chennai,India
+337,1009,2005,Backend Developer,Entry Level,Full-time,On-site,3.9,10.2,12-05-2026,Vertex Systems,IT Services,Chennai,India
+338,1017,2014,Cloud Engineer,Entry Level,Full-time,Remote,5.2,11.8,16-03-2026,HealthTech Innovations,Healthcare Technology,Indore,India
+339,1004,2001,AI Engineer,Entry Level,Full-time,Hybrid,6,14.6,04-06-2026,FinEdge Technologies,FinTech,Mumbai,India
+340,1011,2009,Data Engineer,Entry Level,Full-time,On-site,5.3,11.7,30-09-2026,InsightWorks,Analytics & Consulting,Kolkata,India
+341,1007,2009,Software Engineer,Mid Level,Full-time,Hybrid,5.1,13.2,03-04-2026,Quantix Analytics,Data & AI,Kolkata,India
+342,1002,2001,Backend Developer,Entry Level,Full-time,On-site,4.4,9.9,22-04-2026,DataSphere Analytics,Analytics & Consulting,Mumbai,India
+343,1009,2013,Data Scientist,Mid Level,Full-time,Remote,6.7,15.2,15-06-2026,Vertex Systems,IT Services,Jaipur,India
+344,1007,2010,Cloud Engineer,Entry Level,Full-time,Hybrid,4.7,12.5,25-02-2026,Quantix Analytics,Data & AI,Ahmedabad,India
+345,1001,2015,Data Analyst,Entry Level,Full-time,Hybrid,3.6,7.7,01-01-2026,TechNova Solutions,Information Technology,Remote,India
+346,1003,2009,QA Analyst,Mid Level,Full-time,Hybrid,3.7,9.2,04-09-2026,CloudPeak Systems,Cloud Computing,Kolkata,India
+347,1011,2002,Data Analyst,Senior Level,Full-time,Hybrid,5.6,11.6,29-05-2026,InsightWorks,Analytics & Consulting,Pune,India
+348,1015,2012,Data Analyst,Mid Level,Full-time,On-site,4.3,9.8,13-01-2026,CloudMatrix,Cloud Computing,Thane,India
+349,1011,2013,Cloud Engineer,Senior Level,Full-time,Hybrid,7.8,19,19-04-2026,InsightWorks,Analytics & Consulting,Jaipur,India
+350,1005,2001,Data Analyst,Senior Level,Full-time,On-site,5.6,11.5,07-06-2026,InnoSoft Labs,Software Development,Mumbai,India
+351,1013,2006,Cloud Engineer,Entry Level,Full-time,Hybrid,5.3,11.7,07-10-2026,AppVantage,Software Development,Delhi,India
+352,1015,2004,Business Analyst,Entry Level,Contract,On-site,3.9,7.8,21-02-2026,CloudMatrix,Cloud Computing,Hyderabad,India
+353,1016,2012,AI Engineer,Mid Level,Full-time,On-site,7.3,18.5,19-05-2026,MarketPulse,E-commerce & Technology,Thane,India
+354,1018,2004,Data Analyst,Mid Level,Full-time,Remote,4.1,9.2,18-02-2026,RetailTech Systems,Retail Technology,Hyderabad,India
+355,1002,2001,Backend Developer,Senior Level,Full-time,On-site,6.8,16.1,11-08-2026,DataSphere Analytics,Analytics & Consulting,Mumbai,India
+356,1008,2012,Business Analyst,Mid Level,Full-time,Hybrid,4.8,9.3,03-08-2026,BlueOrbit Technologies,Software Development,Thane,India
+357,1019,2008,Data Engineer,Entry Level,Full-time,Hybrid,5.3,11.3,21-04-2026,SecureNet Labs,Cybersecurity,Noida,India
+358,1015,2008,Business Analyst,Mid Level,Full-time,Hybrid,4.5,9.3,23-04-2026,CloudMatrix,Cloud Computing,Noida,India
+359,1009,2001,Software Engineer,Senior Level,Full-time,Hybrid,6.9,17,07-05-2026,Vertex Systems,IT Services,Mumbai,India
+360,1017,2001,Data Engineer,Entry Level,Full-time,Hybrid,5.4,12.1,20-02-2026,HealthTech Innovations,Healthcare Technology,Mumbai,India
+361,1006,2012,Data Scientist,Senior Level,Full-time,Hybrid,7.8,19.5,13-01-2026,NextGen Digital,Information Technology,Thane,India
+362,1017,2001,Data Analyst,Mid Level,Full-time,Hybrid,4.2,9.5,05-10-2026,HealthTech Innovations,Healthcare Technology,Mumbai,India
+363,1003,2009,Software Engineer,Entry Level,Full-time,On-site,4.1,10.4,21-06-2026,CloudPeak Systems,Cloud Computing,Kolkata,India
+364,1002,2002,Machine Learning Engineer,Senior Level,Full-time,Hybrid,9.6,21.8,14-09-2026,DataSphere Analytics,Analytics & Consulting,Pune,India
+365,1003,2002,Software Engineer,Entry Level,Full-time,On-site,4.5,9.9,17-03-2026,CloudPeak Systems,Cloud Computing,Pune,India
+366,1001,2014,Data Engineer,Mid Level,Full-time,Remote,6,14.6,24-09-2026,TechNova Solutions,Information Technology,Indore,India
+367,1016,2006,Business Analyst,Mid Level,Contract,Hybrid,4.6,9.5,25-01-2026,MarketPulse,E-commerce & Technology,Delhi,India
+368,1005,2003,Business Analyst,Entry Level,Full-time,On-site,4,8.3,12-06-2026,InnoSoft Labs,Software Development,Bengaluru,India
+369,1004,2015,Business Analyst,Entry Level,Full-time,Remote,4.2,7.8,16-03-2026,FinEdge Technologies,FinTech,Remote,India
+370,1005,2013,Data Scientist,Senior Level,Full-time,Remote,8.6,19.3,15-08-2026,InnoSoft Labs,Software Development,Jaipur,India
+371,1007,2010,DevOps Engineer,Entry Level,Full-time,Hybrid,4.7,11.3,23-05-2026,Quantix Analytics,Data & AI,Ahmedabad,India
+372,1020,2009,Data Analyst,Mid Level,Contract,Remote,4.1,9,04-07-2026,BusinessEdge Consulting,Consulting,Kolkata,India
+373,1015,2012,Cybersecurity Analyst,Senior Level,Contract,Remote,6.5,15.5,28-05-2026,CloudMatrix,Cloud Computing,Thane,India
+374,1019,2013,Software Engineer,Senior Level,Full-time,On-site,7.2,16,20-05-2026,SecureNet Labs,Cybersecurity,Jaipur,India
+375,1016,2009,Software Engineer,Mid Level,Full-time,On-site,5.2,13.1,02-01-2026,MarketPulse,E-commerce & Technology,Kolkata,India
+376,1001,2002,Data Scientist,Entry Level,Full-time,Hybrid,5.3,12,04-02-2026,TechNova Solutions,Information Technology,Pune,India
+377,1005,2006,Business Analyst,Entry Level,Full-time,On-site,3.6,8.2,03-08-2026,InnoSoft Labs,Software Development,Delhi,India
+378,1010,2005,Frontend Developer,Entry Level,Full-time,Hybrid,3.2,8.3,19-02-2026,CodeCraft Solutions,Software Development,Chennai,India
+379,1017,2004,Data Engineer,Senior Level,Full-time,Hybrid,7.9,18.9,27-09-2026,HealthTech Innovations,Healthcare Technology,Hyderabad,India
+380,1011,2003,Machine Learning Engineer,Mid Level,Full-time,On-site,7.8,17.3,02-03-2026,InsightWorks,Analytics & Consulting,Bengaluru,India
+381,1016,2013,Data Engineer,Mid Level,Full-time,On-site,6.1,14.4,17-01-2026,MarketPulse,E-commerce & Technology,Jaipur,India
+382,1012,2001,BI Developer,Entry Level,Full-time,Remote,4.1,8.1,23-05-2026,CyberCore Technologies,Cybersecurity,Mumbai,India
+383,1006,2015,NLP Engineer,Mid Level,Full-time,On-site,7.6,17.8,20-02-2026,NextGen Digital,Information Technology,Remote,India
+384,1017,2004,Data Analyst,Mid Level,Full-time,Hybrid,4.7,9.2,10-06-2026,HealthTech Innovations,Healthcare Technology,Hyderabad,India
+385,1015,2010,AI Engineer,Entry Level,Full-time,Hybrid,5.8,14.1,16-08-2026,CloudMatrix,Cloud Computing,Ahmedabad,India
+386,1013,2008,Data Engineer,Entry Level,Full-time,Hybrid,5.2,12.1,03-03-2026,AppVantage,Software Development,Noida,India
+387,1016,2005,Frontend Developer,Senior Level,Full-time,Hybrid,5.2,14.3,20-05-2026,MarketPulse,E-commerce & Technology,Chennai,India
+388,1005,2001,Data Analyst,Entry Level,Full-time,On-site,3.4,7.5,04-02-2026,InnoSoft Labs,Software Development,Mumbai,India
+389,1010,2011,Backend Developer,Mid Level,Full-time,Hybrid,5.3,12.9,05-10-2026,CodeCraft Solutions,Software Development,Navi Mumbai,India
+390,1010,2015,Data Engineer,Mid Level,Full-time,Hybrid,6,15.1,10-03-2026,CodeCraft Solutions,Software Development,Remote,India
+391,1013,2010,Business Analyst,Entry Level,Full-time,Hybrid,3.6,7.8,26-05-2026,AppVantage,Software Development,Ahmedabad,India
+392,1014,2006,Frontend Developer,Mid Level,Contract,Hybrid,4.4,10.7,29-01-2026,AIWorks India,Artificial Intelligence,Delhi,India
+393,1014,2010,Data Analyst,Entry Level,Full-time,Hybrid,3.4,6.7,11-01-2026,AIWorks India,Artificial Intelligence,Ahmedabad,India
+394,1011,2003,Data Analyst,Mid Level,Full-time,Hybrid,4.2,9.3,12-08-2026,InsightWorks,Analytics & Consulting,Bengaluru,India
+395,1019,2002,Data Engineer,Entry Level,Full-time,On-site,5.2,11.3,29-09-2026,SecureNet Labs,Cybersecurity,Pune,India
+396,1018,2003,Machine Learning Engineer,Entry Level,Full-time,Hybrid,5.6,13.5,22-09-2026,RetailTech Systems,Retail Technology,Bengaluru,India
+397,1002,2009,Frontend Developer,Mid Level,Full-time,Hybrid,4.2,10.9,04-05-2026,DataSphere Analytics,Analytics & Consulting,Kolkata,India
+398,1010,2011,Cloud Engineer,Entry Level,Full-time,Hybrid,4.8,11.7,01-05-2026,CodeCraft Solutions,Software Development,Navi Mumbai,India
+399,1006,2005,Software Engineer,Entry Level,Full-time,On-site,4.3,9.6,23-05-2026,NextGen Digital,Information Technology,Chennai,India
+400,1003,2007,DevOps Engineer,Senior Level,Contract,Hybrid,8.1,19.1,13-03-2026,CloudPeak Systems,Cloud Computing,Gurugram,India
+401,1003,2004,Frontend Developer,Mid Level,Full-time,Hybrid,4.3,10.8,10-06-2026,CloudPeak Systems,Cloud Computing,Hyderabad,India
+402,1002,2008,Business Analyst,Entry Level,Full-time,Hybrid,3.7,8.2,27-02-2026,DataSphere Analytics,Analytics & Consulting,Noida,India
+403,1002,2014,Data Engineer,Entry Level,Full-time,Hybrid,5.1,12.4,28-01-2026,DataSphere Analytics,Analytics & Consulting,Indore,India
+404,1009,2005,DevOps Engineer,Entry Level,Full-time,Remote,5.3,11.7,01-05-2026,Vertex Systems,IT Services,Chennai,India
+405,1014,2015,Data Scientist,Entry Level,Full-time,Hybrid,5.2,11.8,21-02-2026,AIWorks India,Artificial Intelligence,Remote,India
+406,1005,2001,NLP Engineer,Mid Level,Full-time,Hybrid,7.2,17.1,10-06-2026,InnoSoft Labs,Software Development,Mumbai,India
+407,1011,2013,DevOps Engineer,Entry Level,Full-time,On-site,4.8,12,08-07-2026,InsightWorks,Analytics & Consulting,Jaipur,India
+408,1015,2004,BI Developer,Mid Level,Full-time,Remote,4.9,11.4,26-01-2026,CloudMatrix,Cloud Computing,Hyderabad,India
+409,1015,2014,Business Analyst,Mid Level,Full-time,On-site,4.4,9.8,15-04-2026,CloudMatrix,Cloud Computing,Indore,India
+410,1007,2007,Business Analyst,Entry Level,Full-time,Hybrid,4,8,15-01-2026,Quantix Analytics,Data & AI,Gurugram,India
+411,1013,2012,Business Analyst,Entry Level,Full-time,Hybrid,3.9,8,07-02-2026,AppVantage,Software Development,Thane,India
+412,1002,2001,QA Analyst,Senior Level,Full-time,Hybrid,4.9,11.5,04-06-2026,DataSphere Analytics,Analytics & Consulting,Mumbai,India
+413,1011,2012,Software Engineer,Senior Level,Full-time,On-site,7.2,16.1,01-03-2026,InsightWorks,Analytics & Consulting,Thane,India
+414,1011,2012,NLP Engineer,Entry Level,Contract,Hybrid,5.7,14,19-03-2026,InsightWorks,Analytics & Consulting,Thane,India
+415,1016,2001,Business Analyst,Mid Level,Full-time,Remote,4.5,10.3,06-09-2026,MarketPulse,E-commerce & Technology,Mumbai,India
+416,1019,2015,Data Scientist,Mid Level,Full-time,On-site,6.6,15.5,03-01-2026,SecureNet Labs,Cybersecurity,Remote,India
+417,1004,2014,Cybersecurity Analyst,Entry Level,Full-time,On-site,4.1,9.9,24-08-2026,FinEdge Technologies,FinTech,Indore,India
+418,1019,2003,Backend Developer,Senior Level,Full-time,On-site,6.7,16.9,25-05-2026,SecureNet Labs,Cybersecurity,Bengaluru,India
+419,1007,2003,Data Scientist,Mid Level,Full-time,Hybrid,6.3,14.4,20-03-2026,Quantix Analytics,Data & AI,Bengaluru,India
+420,1016,2005,DevOps Engineer,Mid Level,Full-time,Hybrid,6.4,15.6,05-08-2026,MarketPulse,E-commerce & Technology,Chennai,India
+421,1016,2009,Cybersecurity Analyst,Mid Level,Full-time,Hybrid,5.5,12.2,29-05-2026,MarketPulse,E-commerce & Technology,Kolkata,India
+422,1019,2001,Backend Developer,Entry Level,Full-time,Remote,4,10.1,20-09-2026,SecureNet Labs,Cybersecurity,Mumbai,India
+423,1006,2013,Data Analyst,Mid Level,Full-time,Hybrid,4,9.5,12-02-2026,NextGen Digital,Information Technology,Jaipur,India
+424,1020,2005,BI Developer,Mid Level,Full-time,On-site,4.6,10.3,01-10-2026,BusinessEdge Consulting,Consulting,Chennai,India
+425,1016,2005,Software Engineer,Entry Level,Full-time,Remote,4.3,10.5,04-07-2026,MarketPulse,E-commerce & Technology,Chennai,India
+426,1008,2007,Business Analyst,Entry Level,Full-time,Remote,3.8,7.3,03-10-2026,BlueOrbit Technologies,Software Development,Gurugram,India
+427,1001,2014,BI Developer,Mid Level,Full-time,On-site,4.8,10.8,31-05-2026,TechNova Solutions,Information Technology,Indore,India
+428,1010,2001,DevOps Engineer,Mid Level,Full-time,Hybrid,6.5,15.1,07-09-2026,CodeCraft Solutions,Software Development,Mumbai,India
+429,1004,2008,Software Engineer,Entry Level,Full-time,Hybrid,4.3,10.7,18-08-2026,FinEdge Technologies,FinTech,Noida,India
+430,1015,2003,Data Scientist,Senior Level,Full-time,Hybrid,8.1,19.4,19-07-2026,CloudMatrix,Cloud Computing,Bengaluru,India
+431,1014,2008,Business Analyst,Entry Level,Full-time,On-site,3.9,7.2,25-01-2026,AIWorks India,Artificial Intelligence,Noida,India
+432,1016,2005,Machine Learning Engineer,Entry Level,Contract,Hybrid,5.6,13.6,24-01-2026,MarketPulse,E-commerce & Technology,Chennai,India
+433,1017,2002,Frontend Developer,Senior Level,Full-time,On-site,5.2,13.9,16-04-2026,HealthTech Innovations,Healthcare Technology,Pune,India
+434,1007,2008,Data Analyst,Mid Level,Contract,Hybrid,4.2,8.8,04-01-2026,Quantix Analytics,Data & AI,Noida,India
+435,1017,2007,NLP Engineer,Entry Level,Full-time,On-site,6,13,08-08-2026,HealthTech Innovations,Healthcare Technology,Gurugram,India
+436,1013,2013,AI Engineer,Mid Level,Full-time,On-site,7.1,18,19-01-2026,AppVantage,Software Development,Jaipur,India
+437,1005,2012,BI Developer,Entry Level,Full-time,Hybrid,3.6,8.6,06-10-2026,InnoSoft Labs,Software Development,Thane,India
+438,1005,2009,Data Analyst,Mid Level,Contract,On-site,4.2,9.6,17-02-2026,InnoSoft Labs,Software Development,Kolkata,India
+439,1002,2014,NLP Engineer,Mid Level,Full-time,Hybrid,7.8,16.6,01-07-2026,DataSphere Analytics,Analytics & Consulting,Indore,India
+440,1019,2010,Data Analyst,Entry Level,Full-time,Remote,3.2,7.6,01-10-2026,SecureNet Labs,Cybersecurity,Ahmedabad,India
+441,1012,2008,AI Engineer,Entry Level,Full-time,Hybrid,5.9,13.9,30-07-2026,CyberCore Technologies,Cybersecurity,Noida,India
+442,1009,2010,Software Engineer,Mid Level,Full-time,Hybrid,5.4,12.8,14-08-2026,Vertex Systems,IT Services,Ahmedabad,India
+443,1002,2012,Software Engineer,Mid Level,Full-time,Hybrid,5.5,12.9,02-03-2026,DataSphere Analytics,Analytics & Consulting,Thane,India
+444,1005,2013,Cybersecurity Analyst,Entry Level,Full-time,On-site,4.2,9.7,06-06-2026,InnoSoft Labs,Software Development,Jaipur,India
+445,1015,2015,Data Analyst,Entry Level,Full-time,Hybrid,3.4,7.1,09-03-2026,CloudMatrix,Cloud Computing,Remote,India
+446,1013,2006,Cloud Engineer,Mid Level,Full-time,Remote,6.3,14.7,15-08-2026,AppVantage,Software Development,Delhi,India
+447,1019,2009,Data Analyst,Senior Level,Full-time,Hybrid,5.5,12.2,10-01-2026,SecureNet Labs,Cybersecurity,Kolkata,India
+448,1019,2001,Frontend Developer,Entry Level,Full-time,Remote,3.4,8.3,24-06-2026,SecureNet Labs,Cybersecurity,Mumbai,India
+449,1005,2005,Software Engineer,Entry Level,Contract,Hybrid,3.9,10.5,31-01-2026,InnoSoft Labs,Software Development,Chennai,India
+450,1008,2013,Data Scientist,Senior Level,Full-time,On-site,8.5,18.7,18-09-2026,BlueOrbit Technologies,Software Development,Jaipur,India
+451,1004,2004,Data Scientist,Senior Level,Full-time,Hybrid,8,19.9,06-03-2026,FinEdge Technologies,FinTech,Hyderabad,India
+452,1018,2008,Business Analyst,Entry Level,Full-time,Remote,4.2,8.3,29-05-2026,RetailTech Systems,Retail Technology,Noida,India
+453,1006,2012,DevOps Engineer,Entry Level,Full-time,On-site,5.3,11.5,15-02-2026,NextGen Digital,Information Technology,Thane,India
+454,1009,2013,QA Analyst,Entry Level,Full-time,On-site,3.1,6.7,14-06-2026,Vertex Systems,IT Services,Jaipur,India
+455,1014,2009,Data Analyst,Mid Level,Full-time,Hybrid,4.6,9.5,21-07-2026,AIWorks India,Artificial Intelligence,Kolkata,India
+456,1001,2002,Data Engineer,Mid Level,Full-time,Remote,6.3,15.5,16-08-2026,TechNova Solutions,Information Technology,Pune,India
+457,1012,2001,Backend Developer,Mid Level,Full-time,Remote,5.1,13.6,18-04-2026,CyberCore Technologies,Cybersecurity,Mumbai,India
+458,1020,2010,Software Engineer,Mid Level,Full-time,Hybrid,5.5,13,03-02-2026,BusinessEdge Consulting,Consulting,Ahmedabad,India
+459,1001,2007,Backend Developer,Mid Level,Full-time,Remote,5.5,13.4,27-01-2026,TechNova Solutions,Information Technology,Gurugram,India
+460,1014,2009,Software Engineer,Entry Level,Full-time,On-site,4.4,9.6,10-04-2026,AIWorks India,Artificial Intelligence,Kolkata,India
+461,1001,2010,Data Analyst,Mid Level,Full-time,Remote,3.9,9.2,09-05-2026,TechNova Solutions,Information Technology,Ahmedabad,India
+462,1015,2010,QA Analyst,Mid Level,Full-time,Remote,3.9,9.1,18-01-2026,CloudMatrix,Cloud Computing,Ahmedabad,India
+463,1010,2014,Backend Developer,Entry Level,Full-time,On-site,4.3,10.3,30-07-2026,CodeCraft Solutions,Software Development,Indore,India
+464,1011,2010,Machine Learning Engineer,Senior Level,Full-time,On-site,9.8,21.9,04-02-2026,InsightWorks,Analytics & Consulting,Ahmedabad,India
+465,1012,2005,Cloud Engineer,Entry Level,Full-time,Hybrid,4.9,11.7,16-03-2026,CyberCore Technologies,Cybersecurity,Chennai,India
+466,1018,2014,Software Engineer,Mid Level,Full-time,On-site,5.1,12.6,13-04-2026,RetailTech Systems,Retail Technology,Indore,India
+467,1011,2003,DevOps Engineer,Mid Level,Full-time,Remote,6.3,14.8,22-01-2026,InsightWorks,Analytics & Consulting,Bengaluru,India
+468,1007,2007,AI Engineer,Senior Level,Full-time,Remote,9.4,23.6,05-07-2026,Quantix Analytics,Data & AI,Gurugram,India
+469,1007,2004,Backend Developer,Senior Level,Full-time,On-site,6.7,17.2,15-05-2026,Quantix Analytics,Data & AI,Hyderabad,India
+470,1004,2006,BI Developer,Entry Level,Contract,On-site,3.9,8.4,03-05-2026,FinEdge Technologies,FinTech,Delhi,India
+471,1020,2007,Cloud Engineer,Entry Level,Contract,On-site,4.9,11.7,24-01-2026,BusinessEdge Consulting,Consulting,Gurugram,India
+472,1016,2004,Data Scientist,Entry Level,Full-time,Hybrid,5,11.9,03-02-2026,MarketPulse,E-commerce & Technology,Hyderabad,India
+473,1016,2008,Business Analyst,Mid Level,Full-time,Hybrid,4.8,9.8,19-01-2026,MarketPulse,E-commerce & Technology,Noida,India
+474,1018,2002,BI Developer,Mid Level,Full-time,On-site,5.2,10.7,16-08-2026,RetailTech Systems,Retail Technology,Pune,India
+475,1001,2003,Data Engineer,Entry Level,Full-time,On-site,5,11.5,08-02-2026,TechNova Solutions,Information Technology,Bengaluru,India
+476,1009,2004,Software Engineer,Entry Level,Full-time,Remote,4.3,9.9,06-10-2026,Vertex Systems,IT Services,Hyderabad,India
+477,1008,2012,Software Engineer,Mid Level,Full-time,Hybrid,5.1,12.8,22-09-2026,BlueOrbit Technologies,Software Development,Thane,India
+478,1005,2005,Software Engineer,Mid Level,Contract,On-site,5.2,13.1,01-07-2026,InnoSoft Labs,Software Development,Chennai,India
+479,1019,2011,Data Analyst,Entry Level,Full-time,Remote,3.8,8,20-07-2026,SecureNet Labs,Cybersecurity,Navi Mumbai,India
+480,1018,2003,QA Analyst,Mid Level,Full-time,Hybrid,3.6,8.3,08-09-2026,RetailTech Systems,Retail Technology,Bengaluru,India
+481,1001,2003,Data Scientist,Mid Level,Full-time,Remote,6.4,14.9,20-07-2026,TechNova Solutions,Information Technology,Bengaluru,India
+482,1016,2003,DevOps Engineer,Entry Level,Full-time,Remote,4.8,11.7,14-04-2026,MarketPulse,E-commerce & Technology,Bengaluru,India
+483,1019,2015,Cloud Engineer,Mid Level,Full-time,Hybrid,6.2,14.8,21-01-2026,SecureNet Labs,Cybersecurity,Remote,India
+484,1014,2008,Cloud Engineer,Entry Level,Full-time,Hybrid,4.8,12.3,18-02-2026,AIWorks India,Artificial Intelligence,Noida,India
+485,1018,2002,AI Engineer,Entry Level,Contract,On-site,5.8,14.9,23-02-2026,RetailTech Systems,Retail Technology,Pune,India
+486,1007,2007,Backend Developer,Mid Level,Full-time,On-site,5.2,12.8,11-03-2026,Quantix Analytics,Data & AI,Gurugram,India
+487,1001,2010,Data Engineer,Mid Level,Full-time,On-site,6.2,14.6,01-10-2026,TechNova Solutions,Information Technology,Ahmedabad,India
+488,1017,2011,Data Analyst,Mid Level,Full-time,Hybrid,4.1,9.5,22-02-2026,HealthTech Innovations,Healthcare Technology,Navi Mumbai,India
+489,1001,2006,Data Engineer,Entry Level,Full-time,Hybrid,4.7,11.7,02-02-2026,TechNova Solutions,Information Technology,Delhi,India
+490,1014,2002,Backend Developer,Mid Level,Full-time,On-site,5.7,12.8,15-06-2026,AIWorks India,Artificial Intelligence,Pune,India
+491,1002,2002,Data Scientist,Mid Level,Full-time,Hybrid,6.2,15.2,13-09-2026,DataSphere Analytics,Analytics & Consulting,Pune,India
+492,1011,2014,Backend Developer,Senior Level,Full-time,On-site,7,16.3,10-01-2026,InsightWorks,Analytics & Consulting,Indore,India
+493,1012,2008,AI Engineer,Mid Level,Full-time,On-site,7.5,17.6,15-04-2026,CyberCore Technologies,Cybersecurity,Noida,India
+494,1010,2013,NLP Engineer,Mid Level,Full-time,Remote,7.8,17.3,19-06-2026,CodeCraft Solutions,Software Development,Jaipur,India
+495,1016,2002,Data Engineer,Entry Level,Contract,On-site,5,11.2,14-03-2026,MarketPulse,E-commerce & Technology,Pune,India
+496,1020,2004,Software Engineer,Entry Level,Full-time,Hybrid,4,10.1,14-04-2026,BusinessEdge Consulting,Consulting,Hyderabad,India
+497,1016,2001,Frontend Developer,Entry Level,Full-time,Hybrid,3.1,9.1,12-02-2026,MarketPulse,E-commerce & Technology,Mumbai,India
+498,1005,2012,Software Engineer,Entry Level,Full-time,On-site,4.3,9.6,08-04-2026,InnoSoft Labs,Software Development,Thane,India
+499,1002,2015,Software Engineer,Mid Level,Full-time,Remote,5.4,12.8,25-03-2026,DataSphere Analytics,Analytics & Consulting,Remote,India
+500,1008,2008,AI Engineer,Mid Level,Full-time,Remote,7.8,18.5,15-01-2026,BlueOrbit Technologies,Software Development,Noida,India

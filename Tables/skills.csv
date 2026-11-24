@@ -1,0 +1,57 @@
+Skill_ID,Skill_Name
+3001,SQL
+3002,Python
+3003,Excel
+3004,Power BI
+3005,Tableau
+3006,Machine Learning
+3007,Deep Learning
+3008,Statistics
+3009,Pandas
+3010,NumPy
+3011,Scikit-learn
+3012,TensorFlow
+3013,PyTorch
+3014,NLP
+3015,Data Visualization
+3016,Data Analysis
+3017,ETL
+3018,Data Warehousing
+3019,AWS
+3020,Azure
+3021,Google Cloud
+3022,Docker
+3023,Kubernetes
+3024,Git
+3025,GitHub
+3026,Java
+3027,C++
+3028,C
+3029,JavaScript
+3030,React
+3031,Node.js
+3032,HTML
+3033,CSS
+3034,REST API
+3035,MySQL
+3036,PostgreSQL
+3037,MongoDB
+3038,Spark
+3039,Hadoop
+3040,Airflow
+3041,Snowflake
+3042,Databricks
+3043,SAS
+3044,Power Query
+3045,VBA
+3046,Business Analysis
+3047,JIRA
+3048,Agile
+3049,Scrum
+3050,Generative AI
+3051,LLM
+3052,LangChain
+3053,Computer Vision
+3054,R
+3055,Linux
+3056,Cybersecurity
