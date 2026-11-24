@@ -46,7 +46,6 @@ The `job_intelligence` database contains five tables:
 
 - [SQL query script](Job_Market_intelligence_Project_Queries.sql)
 - [Detailed project report](Job_Market_intelligence_Project_Report_Queriest.pdf) — includes 24 selected query examples and additional result screenshots.
-- `screenshots/` — original MySQL Workbench images extracted from the report.
 
 ## How to run
 
